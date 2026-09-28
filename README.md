@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/kalees64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Kaleeswaran%20V%20%F0%9F%91%8B;Full%20Stack%20%26%20AI-Assisted%20Engineer%20%F0%9F%8E%93;Next.js%20%26%20Angular%20Specialist%20%E2%9A%A1;NestJS%2C%20MySQL%2C%20Docker%20%26%20AWS%20Cloud%20Architect%20%F0%9F%92%BB;AI%2FLLM%20Integrator%20(Claude%2C%20OpenAI%2C%20Gemini)%20%F0%9F%A4%96;Turning%20ideas%20into%20scalable%20production%20software%20%F0%9F%9A%80" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there,%20I'm%20Kaleeswaran%20V;Full%20Stack%20%26%20AI-Assisted%20Engineer;Next.js%20%26%20Angular%20Specialist;NestJS,%20MySQL,%20Docker%20%26%20AWS%20Cloud%20Architect;AI%20%26%20LLM%20Integrator%20(Claude,%20OpenAI,%20Gemini);Building%20scalable%20production%20software" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,19 +27,15 @@
   <img src="https://komarev.com/ghpvc/?username=kalees64&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
-
-<p align="center">
-  Hey! I'm <b>Kaleeswaran V</b>, a passionate <b>Full Stack Engineer, AI-Assisted Developer & Mobile App Developer</b> based in India.<br />
-  I bring 2+ years of experience designing and architecting scalable web and mobile applications, specializing heavily in <b>Next.js</b> and <b>Angular</b>, alongside <b>NestJS</b>, <b>MySQL</b>, <b>Docker</b>, and <b>AWS</b>. I also possess 1+ years of hands-on AI/LLM integration experience (Claude API, OpenAI API, Gemini API), prompt engineering, agent-based coding, and Flutter cross-platform development.
+  Hey, I am <b>Kaleeswaran V</b>, a <b>Full Stack Engineer &amp; Mobile App Developer</b> based in India.<br />
+  I specialize in architecting scalable web and mobile applications with 2+ years of production experience in <b>Next.js</b> and <b>Angular</b>, backed by <b>NestJS</b>, <b>MySQL</b>, <b>Docker</b>, and <b>AWS</b>. I also bring hands-on AI/LLM integration experience across Claude, OpenAI, and Gemini APIs, agent-based coding workflows, and cross-platform mobile delivery with Flutter.
 </p>
 
 <p align="center">
@@ -49,39 +45,39 @@
 </p>
 
 <p align="center">
-  <b>Core Expertise:</b> Next.js, Angular, NestJS, MySQL, Docker, AWS & Flutter.<br />
-  <b>Philosophy:</b> <i>"Turning complex ideas into scalable, production-ready enterprise solutions!"</i>
+  <b>Core Expertise:</b> Next.js, Angular, NestJS, MySQL, Docker, AWS and Flutter.<br />
+  <b>Philosophy:</b> <i>"Turning complex ideas into scalable, production-ready enterprise solutions."</i>
 </p>
 
 <table width="100%" border="0" align="center">
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>🎯 Flagship Project</h4>
-      <p><b>Pharmacy4U</b><br /><sub>Next.js, NestJS, MySQL, Docker & AWS Healthcare Platform</sub></p>
+      <h4>Flagship Project</h4>
+      <p><b>Pharmacy4U</b><br /><sub>Next.js, NestJS, MySQL, Docker &amp; AWS Healthcare Platform</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>⚡ Active Deep Dives</h4>
-      <p><b>Next.js & Angular Ecosystems</b><br /><sub>Microservices Architecture & AI-Assisted Workflows</sub></p>
+      <h4>Active Deep Dives</h4>
+      <p><b>Next.js &amp; Angular Ecosystems</b><br /><sub>Microservices Architecture &amp; AI-Assisted Workflows</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>💼 Current Role</h4>
+      <h4>Current Role</h4>
       <p><b>Full Stack Developer</b><br /><sub>Assay Clinical Research Pvt Ltd</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
-      <h4>🤝 Collaboration</h4>
-      <p><b>Healthcare, Web & AI Solutions</b><br /><sub>Open to exciting enterprise and product opportunities</sub></p>
+      <h4>Collaboration</h4>
+      <p><b>Healthcare, Web &amp; AI Solutions</b><br /><sub>Open to enterprise platforms and product engineering</sub></p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">🚀 Featured Project Spotlight</h2>
+<h2 align="center">Featured Project Spotlight</h2>
 
 <table width="100%" border="0" align="center">
   <tr>
     <td align="center" style="padding: 22px;">
-      <h3>🏥 Pharmacy4U</h3>
+      <h3>Pharmacy4U</h3>
       <p><i>A production-grade healthcare and smart pharmacy platform supporting medicine ordering, prescription upload, real-time order tracking, and intelligent AI-driven clinical workflow automation.</i></p>
       <br />
       <p>
@@ -101,9 +97,9 @@
   </tr>
 </table>
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">Tech Stack &amp; Skills</h2>
 
-<p align="center"><b>Priority Frontend Frameworks & Web Development</b></p>
+<p align="center"><b>Priority Frontend Frameworks &amp; Web Development</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/1._Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> &nbsp;
   <img src="https://img.shields.io/badge/2._Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -121,14 +117,14 @@
   </a>
 </p>
 
-<p align="center"><b>Backend, Cloud & Databases</b></p>
+<p align="center"><b>Backend, Cloud &amp; Databases</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,fastapi,mysql,postgres,mongodb,aws,docker&theme=dark" width="100%" style="max-width: 480px;" alt="Backend, Cloud and Databases" />
   </a>
 </p>
 
-<p align="center"><b>AI, Testing & DevOps</b></p>
+<p align="center"><b>AI, Testing &amp; DevOps</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,linux,figma,vscode&theme=dark" width="100%" style="max-width: 450px;" alt="Tools and DevOps" />
@@ -145,7 +141,7 @@
   <img src="https://img.shields.io/badge/Jest-0a0a0a?style=for-the-badge&logo=jest&logoColor=EF4444" alt="Jest" />
 </p>
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<h2 align="center">GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kalees64&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" /> &nbsp;&nbsp;
@@ -160,15 +156,15 @@
   <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
 </p>
 
-<h2 align="center">⚡ Contribution Journey</h2>
+<h2 align="center">Contribution Journey</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
-<h2 align="center">📬 Let's Connect & Collaborate</h2>
+<h2 align="center">Connect &amp; Collaborate</h2>
 
-<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or connect - my inbox is always open.</i></p>
 
 <table border="0" align="center">
   <tr>
@@ -191,7 +187,7 @@
         <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" /><br /><br />
         <img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
       </a><br />
-      <sub><b>Code & Projects</b></sub>
+      <sub><b>Code &amp; Projects</b></sub>
     </td>
   </tr>
 </table>
